@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carrefour-telegram-bot-wjpu",
+  "private_key_id": "b42839c306b036ee3e3222e262431c6b2bb6d9f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDch+EPI+lOXuj9\nBdtHAurH54OVZeJ9iRuh+ybcVJVEiHyr4uvlAfHbnWLO9C0Z7gh01UwJrt6VlW0b\nTuTq4OTb1rZV+Y9wdilp+mvdWChMjzuu26ECi8Q0Fj6bqkv/COvKrdTeZfvezDqz\njf/aUfDJSxpUEg+v9WQJ6WDEPS0krTCCCEwI6R6iIO8U0nmAj21cUiznY5X+eITN\n0+HbDJUQlThvP7Ebw4LicY0jJvxOElnXj6eyMICemhGwbREJ9m470SMYpCs3jOnz\nkPDqzbYRl6yXg6S4GrbK1+4MD1jWrTBoYieJfWruFUzrlf8N4iljKAkoLUeaOrhA\nNRRVKP6pAgMBAAECggEAWVVhwfRWKj0gPH8G2LlBykDqeLaRDTFhVDidAVvyK5Tu\ni+KclGQ5STF0OUmIi5x1KH7PEo0X9ZhWXl2TNeJsUvGjYyh5BqGXHSsoTr3LdVgA\nYVDu5E0h6cepDP3rUyCWA8BvHrhJU3N/xASdxB61X5Vg0PWQDUNmhu1XGad+hgAx\nksaZE7yHvp7X+XcbZzr9kKt9vuNWS7UMyixxCf/WdUShkhQLZaHUdiT65j9QFkzT\nfUf9hHcJpz2Z5mHDPqqtRSRtdPdGZJGjTyBv68blmLkoUa+SYeVfuhr8H/9i64oR\n6//uI8gQNnY30HdA9n1M7H8v3w6s7HtdrHsOKd1nEQKBgQD5E9/1RjpFGsxVRe2f\nQNQrIdE1Uj9ekwUGvQvR29K34VKNaN30lSJ0vomSt2HSpHtTjNueJaII+LaGPb7f\nHd0O6KTn69oh/C6Z7athTeoNZQrZ6eUqCrLTgf0a7QkyHeVfc9Pth+s4Fhki7nTO\nzNYq3hRFJpWvRK0RekrbjRmy9wKBgQDiqOaJf42HYRS9XkYLcZ6/IHUt8ha0emxa\nFfAvQUpyBZyg2r3eryf1aoRWa/rymuyFSbSWwWTxoM344Don47XljlNHd0OU3N4a\nA+6YjzUvo85sW9klYZ1o3Pt5LpK3fdVhHbtzU42bz7UN9budln/yPJmbD2BSc1Pt\ncBYDgVLTXwKBgCBvHBy+VlwlTzJTdsvkDzzGnI2K9kGEd4UXHPDo5RmYt70+SJjO\nyrvVC+kVBCH/1SdeEkMXt2/fozT72V0IcH6+gKrKpY8DXbYhos167d1sqOsTcAn3\ndq3gIWteLnJePj4dwR0PM+wLxJ4t2vwK5GCUpqMSkS9PjBHYkOLiDtSlAoGAS0/z\nyhwn2qPXUFTS0VqfdMJELVATW0SSXByOAiWfpuNWd9w22pc4n8MU1eJrL9FqZZ9n\n8e+wqtjTl65ppHd1KSFxan2mZwA8jEhiLy7mbT3wiPC75j/ZHc7PgCSJe47EJ9DJ\nSDirBOqvLkRIYsRvHv4jy/H//2VyraJgril6a+ECgYEAgRiJ07BU9SWiDG7BzvVY\nlPBJ5ur9xdjkqOac/7owzBF9Ao2bbV52QtyVUc2q+YjwhLihLw9BdTadgimNUBHf\nBKL8JgyhFDUuZ8Rqxl623OKz8LxQCOQ/rlBYkw0ngsJIMjF5sOqwfFhr/+O1IjXI\nYHtMKMielmlaz/eidnqtDW0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ibsbld@carrefour-telegram-bot-wjpu.iam.gserviceaccount.com",
+  "client_id": "111951991332554947916",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ibsbld%40carrefour-telegram-bot-wjpu.iam.gserviceaccount.com"
+}
